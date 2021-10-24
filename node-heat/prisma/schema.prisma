@@ -1,0 +1,37 @@
+datasource db {
+   provider = "sqlite"
+   url      = "file:./dev.db"
+}
+
+generator client {
+   provider = "prisma-client-js"
+}
+
+// PARA CARA MODEL rodar o comando "prisma migrate dev" no terminal para o modelo ser gerado no bando de dados
+// modelo para os usuários, especificando os dados e tipos que precisam ser passados para a criação do usuário
+model User {
+   id         String @id @default(uuid())
+   name       String
+   github_id  Int
+   avatar_url String
+   login      String
+
+
+   messages Message[]
+   // escolhe o nome que vai ter a tabela quando for criada no banco de dados
+   // são criadas após passar no terminal "prisma migrate dev"
+   @@map("users")
+}
+
+// modelo para as mensagens
+// ao colocar que a mensagem vai ser um user do tipo User ele vai
+// relacionar automaticamente com o model decima, assim criando a relação entre as informações do banco de dados
+model Message {
+   id         String   @id @default(uuid())
+   text       String
+   created_at DateTime @default(now())
+   user       User     @relation(fields: [user_id], references: [id])
+
+   user_id String
+   @@map("message")
+}

@@ -1,0 +1,14 @@
+{
+   "compilerOptions": {
+      "target": "es2017",
+      "module": "commonjs",
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      // false pq o typescript já alerta de variáveis que não estamos utilizando ou pontos do código que já tem algum erro. Basicamente o scrict faria isso
+      "strict": false,
+      "skipLibCheck": true,
+      // como não estavam sendo reconhecido os nossos types criados precisamos passar ele na config,
+      // junto com o padrão do node para avisar onde estão nossos @types da aplicação
+      "typeRoots": ["./src/@types", "node_modules/@types"]
+   }
+}
