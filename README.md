@@ -40,6 +40,20 @@ Nesse projeto criado durante a Next Level Week Heat, criamos uma aplicação par
 
 ---
 
+<h2 align="center"> Projeto </h2>
+
+<h4 align="center"> Mobile </h4>
+  <p align="center";>
+   <img alt="Mobile Demonstration" title="Mobile" src="./assets/demonstration-app.gif" >
+  </p>
+
+<h4 align="center"> Web </h4>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Web Demonstration" title="Home" src="./assets/demonstration-web.gif" width="900px">
+</p>
+
+---
+
 <h2 id="--features"> Recursos </h2>
 
 ### Geral
@@ -62,20 +76,6 @@ Nesse projeto criado durante a Next Level Week Heat, criamos uma aplicação par
 - <a href="https://reactnative.dev"> React Native </a>
 - <a href="https://expo.dev"> Expo </a>
 - <a href="https://moti.fyi"> Moti </a>
-
----
-
-<h2 align="center"> Projeto </h2>
-
-<h4 align="center"> Mobile </h4>
-  <p align="center";>
-   <img alt="Mobile Demonstration" title="Mobile" src="./assets/demonstration-app.gif" >
-  </p>
-
-<h4 align="center"> Web </h4>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Web Demonstration" title="Home" src="./assets/demonstration-web.gif" width="900px">
-</p>
 
 ---
 
