@@ -37,6 +37,7 @@
 <h2 id="---sobre-o-repositório-"> 💻  Sobre o repositório </h2>
 
 Nesse projeto criado durante a Next Level Week Heat, criamos uma aplicação para nos conectarmos e mandarmos mensagens sobre nossas expectativas para o DoWhile 2021. A aplicação consiste de um Front-End feito com React, Mobile com React-Native e o Back-end com NodeJs e Prisma.
+</br>
 Na aplicação damos autorização para um serviço do github poder passar nossas informações do github para nossa aplicação, logando com nossa conta podemos mandar mensagens e o back-end registra essas mensagens com nossas informações do github e depois devolve a mensagem em tempo real. Tudo isso utilizando token de authenticação e autorização em tempo real.
 
 ---
