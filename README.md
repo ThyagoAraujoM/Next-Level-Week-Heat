@@ -1,5 +1,5 @@
 <h1 align="center">
-      <a href="#" alt="NLW-Heat Impulse"> Nlw Heat Impulse </a>
+      <a href="#" alt="NLW-Heat Impulse"> Next Level Week Heat </a>
 </h1>
 
 <h3 align="center">
