@@ -6,7 +6,7 @@ export const styles = StyleSheet.create({
    container: {
       width: "100%",
       height: 184,
-      backgroundColo: COLORS.BLACK_TERTIARY,
+      backgroundColor: COLORS.BLACK_TERTIARY,
       paddingBottom: getBottomSpace() + 16,
       paddingTop: 16,
       paddingHorizontal: 24,
