@@ -1,5 +1,5 @@
 <h1 align="center">
-      <a href="#" alt="NLW-Heat Impulse"> Next Level Week Heat </a>
+      <a href="#" alt="Next-Level-Week-Heat"> Next Level Week Heat </a>
 </h1>
 
 <h3 align="center">
@@ -7,15 +7,15 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thyagoaraujom/Impulse?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thyagoaraujom/Next-Level-Week-Heat?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/thyagoaraujom/Impulse">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/thyagoaraujom/Next-Level-Week-Heat">
   
   <a href="https://github.com/thyagoaraujom/README/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thyagoaraujom/Impulse">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thyagoaraujom/Next-Level-Week-Heat">
   </a>
-   <a href="https://github.com/thyagoaraujom/Impulse/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/thyagoaraujom/Impulse?style=social">
+   <a href="https://github.com/thyagoaraujom/Next-Level-Week-Heat/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/thyagoaraujom/Next-Level-Week-Heat?style=social">
    </a>
   
  
