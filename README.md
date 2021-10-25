@@ -43,25 +43,25 @@ Nesse projeto criado durante a Next Level Week Heat, criamos uma aplicação par
 <h2 id="--features"> Recursos </h2>
 
 ### Geral
-- Axios
-- Socket IO
-- Typescript
+- <a href="https://axios-http.com"> Axios </a>
+- <a href="https://socket.io"> Socket IO </a>
+- <a href="https://www.typescriptlang.org"> Typescript </a>
 
 ### Back-End
-- NodeJs
-- Prisma
-- Express
-- JWT
+- <a href="https://nodejs.org" > NodeJs </a>
+- <a href="https://www.prisma.io"> Prisma </a>
+- <a href="expressjs.com"> Express </a>
+- <a href="https://jwt.io"> JWT </a>
 
 ### Front-End
-- React 
-- SASS
-- Vite
+- <a href="https://reactjs.org">React </a>
+- <a href="https://sass-lang.com"> SASS </a>
+- <a href="https://vitejs.dev"> Vite </a>
 
 ### Mobile
-- React Native
-- Expo
-- Moti
+- <a href="https://reactnative.dev"> React Native </a>
+- <a href="https://expo.dev"> Expo </a>
+- <a href="https://moti.fyi"> Moti </a>
 
 ---
 
@@ -69,17 +69,12 @@ Nesse projeto criado durante a Next Level Week Heat, criamos uma aplicação par
 
 <h4 align="center"> Mobile </h4>
   <p align="center";>
-   <img alt="Header/Main" title="Mobile Home" src="./assets/demonstration-mobile.gif" >
+   <img alt="Mobile Demonstration" title="Mobile" src="./assets/demonstration-app.gif" >
   </p>
 
 <h4 align="center"> Web </h4>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Home" src="./assets/web.png" width="900px">
-</p>
-
-<h4 align="center"> Web - Dark Mode </h4>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Home Dark Mode" src="./assets/web-dm.png" width="900px">
+  <img alt="Web Demonstration" title="Home" src="./assets/demonstration-web.gif" width="900px">
 </p>
 
 ---
