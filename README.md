@@ -29,7 +29,7 @@
  <a href="#---sobre-o-repositório-">Sobre o projeto</a> •
  <a href="#--features"> Recursos </a> •
  <a href="#--Contributing"> Contribuição</a> •  
- <a href="#-autor">Autor</a> •
+ <a href="#-autor">Autor</a>
 </p>
 
 ---
